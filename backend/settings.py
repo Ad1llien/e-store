@@ -260,11 +260,11 @@ SIMPLE_JWT = {
 
 
 JAZZMIN_SETTINGS = {
-    "site_title": "Desphixs",
-    "site_header": "Desphixs",
+    "site_title": "Store Buy",
+    "site_header": "Store Buy",
     "site_brand": "Modern Marketplace ",
     "site_icon": "images/favicon.ico",
-    "site_logo": "images/logos/logo.jpg",
+    "site_logo": "C:/Users/Asus/Downloads/Completed+Source+Code/Completed Source Code/frontend/src/views/base/logo.png",
     "welcome_sign": "Welcome To Desphixs",
     "copyright": "All right reserved to Desphixs",
     "user_avatar": "images/photos/logo.jpg",

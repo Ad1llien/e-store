@@ -39,8 +39,7 @@ import stripe
 import requests
 
 stripe.api_key = "sk_test_51QTLAAK5u6C9Lffjy1kj8zd9WjLOWn6B3Hf34TtErvwTyaZlq9t1TGWhb3s7s1LlJZBwmWhNuoY2ZTRaY2lbnzeL00gwim38Vk"
-PAYPAL_CLIENT_ID = settings.PAYPAL_CLIENT_ID
-PAYPAL_SECRET_ID = settings.PAYPAL_SECRET_ID
+
 
 
 def send_notification(user=None, vendor=None, order=None, order_item=None):
